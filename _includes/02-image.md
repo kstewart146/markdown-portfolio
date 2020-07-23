@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![cute puppy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thelabradorsite.com%2Fcute-puppy-names%2F&psig=AOvVaw3Zb11NzKgaj1ktcT4xmND6&ust=1595611043296000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjyqb7w4-oCFQAAAAAdAAAAABAD)
